@@ -16,10 +16,10 @@ dependencies:
   # 🔥 Firebase Core
   firebase_core: ^2.30.0
 
-  # 🔥 Firebase Auth
-  firebase_auth: ^4.20.0
+  # 🔥 Firebase Auth (FIXED)
+  firebase_auth: ^4.16.0
 
-  # 🔥 Realtime Database
+  # 🔥 Realtime Database (FIXED)
   firebase_database: ^10.4.0
 
 dev_dependencies:
