@@ -14,14 +14,13 @@ dependencies:
   cupertino_icons: ^1.0.8
 
   # 🔥 Firebase Core
-  firebase_core: ^2.32.0
+  firebase_core: ^2.30.0
 
   # 🔥 Firebase Auth
   firebase_auth: ^4.20.0
 
-  # 🔥 Realtime Database (IMPORTANT)
-  firebase_core: ^2.30.0
-firebase_database: ^10.4.0
+  # 🔥 Realtime Database
+  firebase_database: ^10.4.0
 
 dev_dependencies:
   flutter_test:
